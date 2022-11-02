@@ -1,0 +1,204 @@
+#EXTM3U
+
+														****Bangladeshi****
+
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangladeshi",Jamuna TV 
+http://15.1.5.14:8082/jamuna-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channel24.png" group-title="Bangladeshi",Channel 24
+http://15.1.5.14:8082/Channel24/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/746jyf8b" group-title="Bangladeshi",Independent TV 
+http://15.1.5.14:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangladeshi",Somoy TV
+http://15.1.5.14:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/dbcnews.png" group-title="Bangladeshi",DBC News HD
+http://15.1.5.14:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="Bangladeshi",News24 
+http://15.1.5.14:8082/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ekattortv.png" group-title="Bangladeshi",Ekattor TV 
+http://15.1.5.14:8082/Ekattor-tv/index.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/maasranga.jpg" group-title="Bangladeshi",Maasranga HD
+http://15.1.5.14:8082/maasranga/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/gtv.png" group-title="Bangladeshi",Gazi TV
+http://15.1.5.14:8082/GAZI-TV-HD/index.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/asiantv.png" group-title="Bangladeshi",Asian TV
+http://15.1.5.14:8082/AsianTV/index.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/channeli.jpg" group-title="Bangladeshi",Channel I
+http://15.1.5.10:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/atnbangla.png" group-title="Bangladeshi",ATN Bangla
+http://15.1.5.14:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/banglatv.jpg" group-title="Bangladeshi",Bangla TV
+http://15.1.5.14:8082/bangla-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/btv.jpg" group-title="Bangladeshi",BTV
+http://15.1.5.14:8082/btv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangladeshi",Banglavision
+http://15.1.5.14:8082/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/deeptotv.png" group-title="Bangladeshi",Deepto TV
+http://15.1.5.14:8082/depto-bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangladeshi",Boishakhi TV
+http://15.1.5.14:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Bangladeshi",Gaan Bangla
+http://15.1.5.14:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/nagorik.jpg" group-title="Bangladeshi",Nagorik TV 
+http://15.1.5.14:8082/nagorik-tv/index.m3u8
+#EXTINF:-16 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",Ekushey TV
+http://15.1.5.14:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangladeshi",NTV 
+http://15.1.5.14:8082/Ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/su9v958x" group-title="Bangladeshi",RTV
+http://15.1.5.14:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.akashdth.com/assets/uploads/channels_images/satv.png" group-title="Bangladeshi",SATV 
+http://15.1.5.14:8082/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/mohonatv.jpg" group-title="Bangladeshi",Mohona TV
+http://15.1.5.10:8082/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Bangladeshi",My TV
+http://15.1.5.14:8082/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Bangladeshi",Anando TV
+http://15.1.5.14:8082/anandotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangladeshi",T Sports HD 
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+
+
+														****Indian Bangla****
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian-Bangla",Star Jalsha HD
+http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Indian-Bangla",Zee Bangla HD
+http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian-Bangla",Sun Bangla
+http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla Cinema
+http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/zeebanglacinema.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
+http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCE33RU10MxFdxBopf4SgM-C4eL2awRNMr9sMTrufrhd-OYKyhcWhQoRukUSW31U-mCc&usqp=CAU" group-title="Indian-Bangla",Bangla Talkies
+http://15.1.5.14:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/sonyaath.jpg" group-title="Indian-Bangla",Sony Aath 
+http://15.1.5.14:8082/Sonyaath/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Indian-Bangla",Jalsha Movies HD
+http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sangeetbangla.jpg" group-title="Indian-Bangla",Sangeet Bangla
+http://15.1.5.14:8082/sangeet-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/enterr10.jpg" group-title="Indian-Bangla",Enter 10 Bangla
+http://15.1.5.10:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
+
+															****Hindi****
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sonytv.jpg" group-title="Hindi",Sony TV HD
+http://15.1.5.14:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi",Sony Max HD
+http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sonymax2.png" group-title="Hindi",Sony Max 2
+http://15.1.5.14:8082/sony-max2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/andpictureshd.jpg" group-title="Hindi",& Pictures HD
+http://172.16.50.2:8082/And-Pictures/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/stargold.jpg" group-title="Hindi",Star Gold HD
+http://15.1.5.14:8082/star-gold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/zeetv.png" group-title="Hindi",Zee TV HD
+http://15.1.5.14:8082/zee-tv-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/starplus.png" group-title="Hindi",Star Plus HD
+http://15.1.5.14:8082/star-plus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorshd.jpg" group-title="Hindi",Colors
+http://15.1.5.14:8082/colorsindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/zeecinemahd.jpg" group-title="Hindi",Zee Cinema HD
+http://15.1.5.14:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorscineplex.jpg" group-title="Hindi",Colors Cineplex HD
+http://15.1.5.14:8082/colorscineplex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/zeeacion.jpg" group-title="Hindi",Zee Action
+http://15.1.5.14:8082/zeeaction/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sonysabhd.jpg" group-title="Hindi",Sony Sab HD
+http://15.1.5.14:8082/SONY-SUB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/Dhinchaak.jpg" group-title="Hindi",Dhinchaak
+http://15.1.5.14:8082/Dhinchaak/tracks-v1a1/mono.m3u8
+
+															****Music****
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png" group-title="Music",Maastii
+http://15.1.5.14:8082/Masti-Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/9xm.jpg" group-title="Music",9XM
+http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/bindass.jpg" group-title="Music",Bindaas
+http://15.1.5.14:8082/bindass/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/b4umusic.jpg" group-title="Music",B4U Music
+http://15.1.5.14:8082/b4u/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/9xjalwa.jpg" group-title="Music",9X Jalwa
+http://15.1.5.14:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
+
+																		****English****
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sonypix.jpg" group-title="English",Sony Pix HD
+http://15.1.5.14:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="http://dugdugilive.com/img/channels/starworld.png" ,Star World HD
+http://15.1.5.14:8082/star-worldhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starmovieshd.jpg" group-title="English",Star Movies HD
+http://15.1.5.14:8082/star-movies-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/mnplushd.jpg" group-title="English",MN+
+http://15.1.5.14:8082/mn-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/moviesnowhd.jpg" group-title="English",Movies Now HD
+http://15.1.5.14:8082/movies-now/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/mnxhd.jpg" group-title="English",MNX HD
+http://bdiptv.net:8282/mnx-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/andflixhd.jpg" group-title="English",And Flix HD
+http://15.1.5.14:8082/AND-FLIX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/lotus.jpg" group-title="English",Lotus Maccau
+http://15.1.5.14:8082/Lotus-Macau/tracks-v1a1/mono.m3u8
+
+														****Documentary****
+
+#EXTINF:1 tvg-logo="http://amrbd.com/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
+http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="http://dugdugilive.com/img/channels/natgeo.png" group-title="Documentary", National Geographic 
+http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="http://bciptv.net/assets/images/natgeowildhd.jpg" group-title="Documentary", Nat Geo Wild
+http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="http://bciptv.net/assets/images/discoveryscience.jpg" group-title="Documentary", Discovery Science
+http://15.1.5.10:8082/Discovery-Science/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="http://bciptv.net/assets/images/bbcearthhd.jpg" group-title="Documentary", BBC Earth HD
+http://15.1.5.14:8082/BBC-Earth/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP 
+http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/tlchd.jpg" group-title="Documentary",TLC HD
+http://172.16.50.2:8082/TLC_World/tracks-v1a1/mono.m3u8
+
+															****Sports****
+
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png"  group-title="Sports",Sony Ten 1 HD 
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten2.png"  group-title="Sports",Sony Ten 2 
+http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/sonysix.png"  group-title="Sports",Sony Six HD 
+http://15.1.5.14:8082/sony-six-hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 HD 
+http://15.1.5.14:8082/STAR-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starselect1.jpg"  group-title="Sports",Star Sports Select 1 HD
+http://172.16.50.2:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starsports2.jpg" group-title="Sports", Star Sports 2 HD 
+http://15.1.5.14:8082/STAR-SPORTS-2/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/starselect2.jpg"  group-title="Sports",Star Sports Select 2 HD 
+http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports
+http://15.1.5.14:8082/PTV-SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/adsports1.jpg" group-title="Sports",Ad Sports 1
+http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/adsports2.jpg" group-title="Sports",Ad Sports 2
+http://15.1.5.14:8082/Adsports2/tracks-v1a1/mono.m3u8
+
+															****Kids****
+
+#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/duronto.png" group-title="Kids",Duronto TV 
+http://15.1.5.14:8082/duronto-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/nick.jpg" group-title="Kids",Nick Jr.
+http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/discoverykids.jpg" group-title="Kids",Discovery Kids
+http://bdiptv.net:8282/discovery-kid/tracks-v1a1/mono.m3u8
+
+																****International****
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/cgtn.jpg" group-title="International",CGTN
+http://15.1.5.10:8082/Cgtn-News/tracks-v1a1/mono.m3u8	
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/aljazeera.jpg" group-title="International",Aljaazera
+http://15.1.5.14:8082/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/dw.jpg" group-title="International",DW
+http://15.1.5.14:8082/Dw/tracks-v1a1/mono.m3u8	
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/bbcnews.jpg" group-title="International",BBC News
+http://172.16.50.2:8082/BBC_World/tracks-v1a1/mono.m3u8
+
