@@ -87,8 +87,6 @@ http://15.1.5.10:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi",Sony Max HD
 http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-max-logo-2.png" group-title="Hindi",Sony Max HD-2
-https://cdn-01.toffeelive.com/origin-07/live-origin/smil:set_max_hd.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sonymax2.png" group-title="Hindi",Sony Max 2
 http://15.1.5.14:8082/sony-max2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/andpictureshd.jpg" group-title="Hindi",& Pictures HD
