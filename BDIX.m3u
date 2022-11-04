@@ -219,7 +219,7 @@ https://tvs1.aynaott.com/rtv/index.m3u8
 https://tvs1.aynaott.com/satv/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="AynaOTT",Boishakhi TV
 https://tvs1.aynaott.com/boishakhitv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
+#EXTINF:-1 group-title="AynaOTT" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
 https://tvs1.aynaott.com/channel9/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="AynaOTT",My Tv HD
 https://tvs1.aynaott.com/mytv/index.m3u8
