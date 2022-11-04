@@ -202,3 +202,34 @@ http://15.1.5.14:8082/Dw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/bbcnews.jpg" group-title="International",BBC News
 http://172.16.50.2:8082/BBC_World/tracks-v1a1/mono.m3u8
 
+
+
+*****************************************************************************************************************************************************
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="AynaOTT",Somoy TV
+https://tvs1.aynaott.com/somoytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="AynaOTT",Ekattor TV
+https://tvs1.aynaott.com/ekattortv/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="AynaOTT",News 24 HD
+https://tvs1.aynaott.com/news24/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="AynaOTT",ATN News
+https://tvs1.aynaott.com/atnnews/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="AynaOTT",RTV
+https://tvs1.aynaott.com/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png" group-title="AynaOTT",SATV
+https://tvs1.aynaott.com/satv/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="AynaOTT",Boishakhi TV
+https://tvs1.aynaott.com/boishakhitv/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg",Channel 9
+https://tvs1.aynaott.com/channel9/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="AynaOTT",My Tv HD
+https://tvs1.aynaott.com/mytv/index.m3u8
+#EXTINF:-1 tvg-logo="https://sportsmaza.com/wp-content/uploads/2018/04/Sony-Ten-1.jpg" group-title="AynaOTT", Sony Ten 1 HD
+http://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png"group-title="AynaOTT",Sony ten 2 HD
+https://tvs1.aynaott.com/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Sony-Ten-3.png"group-title="AynaOTT",Sony Ten 3 HD
+http://tvs1.aynaott.com/Ten3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png" group-title="AynaOTT", Sony Six SD
+https://tvs1.aynaott.com/SonySix/index.m3u8
+*****************************************************************************************************************************************************
+
