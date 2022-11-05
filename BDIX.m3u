@@ -64,20 +64,16 @@ http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png" group-title="Indian-Bangla",Zee Bangla HD
 http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian-Bangla",Sun Bangla
-http://15.1.5.10:8082/sunbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla Cinema
-http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/zeebanglacinema.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
-http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCE33RU10MxFdxBopf4SgM-C4eL2awRNMr9sMTrufrhd-OYKyhcWhQoRukUSW31U-mCc&usqp=CAU" group-title="Indian-Bangla",Bangla Talkies
-http://15.1.5.14:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/sonyaath.jpg" group-title="Indian-Bangla",Sony Aath 
 http://15.1.5.14:8082/Sonyaath/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Indian-Bangla",Jalsha Movies HD
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sangeetbangla.jpg" group-title="Indian-Bangla",Sangeet Bangla
-http://15.1.5.14:8082/sangeet-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian-Bangla",Sun Bangla
+http://bdiptv.net:8282/sunbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla Cinema
+http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/zeebanglacinema.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
+http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/enterr10.jpg" group-title="Indian-Bangla",Enter 10 Bangla
 http://15.1.5.10:8082/enterr10-bangla/tracks-v1a1/mono.m3u8
 
@@ -107,11 +103,18 @@ http://15.1.5.14:8082/colorscineplex/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/zeeaction/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sonysabhd.jpg" group-title="Hindi",Sony Sab HD
 http://15.1.5.14:8082/SONY-SUB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/Dhinchaak.jpg" group-title="Hindi",Dhinchaak
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/Dhinchaak.jpg" group-title="Hindi",Dhinchaak-2
 http://15.1.5.14:8082/Dhinchaak/tracks-v1a1/mono.m3u8
 
 															****Music****
 
+
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/banglatalkies.jpg" group-title="Music",Bangla Talkies
+http://15.1.5.14:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sangeetbangla.jpg" group-title="Music",Sangeet Bangla
+http://15.1.5.14:8082/sangeet-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/atnmusic.jpg" group-title="Music",ATN Music
+http://15.1.5.14:8082/ATN-MUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png" group-title="Music",Maastii
 http://15.1.5.14:8082/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/9xm.jpg" group-title="Music",9XM
@@ -147,7 +150,7 @@ http://15.1.5.14:8082/Lotus-Macau/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://amrbd.com/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
 http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://dugdugilive.com/img/channels/natgeo.png" group-title="Documentary", National Geographic 
-http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
+http://bdiptv.net:8282/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://bciptv.net/assets/images/natgeowildhd.jpg" group-title="Documentary", Nat Geo Wild
 http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://bciptv.net/assets/images/discoveryscience.jpg" group-title="Documentary", Discovery Science
