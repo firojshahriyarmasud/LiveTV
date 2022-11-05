@@ -388,7 +388,7 @@ https://tvs1.aynaott.com/cnn/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/dwnews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="AynaOTT",TRT World
 https://tvs1.aynaott.com/trtworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="hhttps://seeklogo.com/images/S/Sky_news-logo-1E717A73A5-seeklogo.com.png" group-title="AynaOTT",Sky News
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Sky_news-logo-1E717A73A5-seeklogo.com.png" group-title="AynaOTT",Sky News
 https://tvs2.aynaott.com/skynews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/assets/img/channels/rlgn/makkah-live.jpg" group-title="AynaOTT",Sunnah TV
 https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.m3u8
