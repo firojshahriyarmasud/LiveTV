@@ -210,6 +210,8 @@ http://172.16.50.2:8082/BBC_World/tracks-v1a1/mono.m3u8
 ******************************************************************AynaOTT**********************************************************************
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",Jamuna TV
 https://tvs1.aynaott.com/jamunatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="AynaOTT",Channel 24
+https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",News24
 https://tvs1.aynaott.com/news24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",DBC News
@@ -242,8 +244,6 @@ https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",BTV World
 https://tvs1.aynaott.com/btvworld/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="AynaOTT",Channel 24
-https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",Channel 9
 https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",Channel I
@@ -359,7 +359,6 @@ https://tvs1.aynaott.com/BanglaTalkies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",Sony Ten 1
 https://tvs1.aynaott.com/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",Sony Ten 2
-#EXTINF:0 group-title="AynaOTT", tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f17b81cb-6339-47a4-9492-71cb68af4be2_180x180_ten-2-hd.jpg" tvg-logo-small="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f17b81cb-6339-47a4-9492-71cb68af4be2_180x180_ten-2-hd.jpg" ,SONY TEN 2
 https://tvs1.aynaott.com/Ten2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="AynaOTT",Sony Ten 3
 https://tvs1.aynaott.com/Ten3/tracks-v1a1/mono.m3u8
