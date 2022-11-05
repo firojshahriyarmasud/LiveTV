@@ -2,7 +2,7 @@
 
 														****Bangladeshi****
 
-#EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/jamunatv.png" group-title="Bangladeshi",Jamuna TV 
+#EXTINF:-1 tvg-logo="https://www.allbanglanewspaper.co/img-files/tvnews/jamuna.png" group-title="Bangladeshi",Jamuna TV 
 http://15.1.5.14:8082/jamuna-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/channel24.png" group-title="Bangladeshi",Channel 24
 http://15.1.5.14:8082/Channel24/index.m3u8
