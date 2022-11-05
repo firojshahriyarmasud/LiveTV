@@ -290,7 +290,7 @@ https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8
 https://tvs2.aynaott.com/SonyHD/tracks-v1a1/index-1667563200-now.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonytv.jpg" group-title="AynaOTT",Sony SD
 https://tvs1.aynaott.com/SonySD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://aynaott.com/" group-title="AynaOTT",Zee Anmol Cinema
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee-anmol-cinema.jpg" group-title="AynaOTT",Zee Anmol Cinema
 https://tvs1.aynaott.com/ZeeAnmolCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/andpictureshd.jpg" group-title="AynaOTT",& Pictures
 https://tvs1.aynaott.com/andpictureshd/tracks-v1a1/mono.m3u8
@@ -316,7 +316,7 @@ https://tvs1.aynaott.com/StarPlusHD/tracks-v1a1/mono.m3u8
 https://tvs2.aynaott.com/ZeeTvHD/tracks-v1a1/index-1667563200-now.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/assets/img/channels/hindi/Zee-zing.jpg" group-title="AynaOTT",Zing
 https://tvs1.aynaott.com/zing/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AynaOTT",& TV HD
+#EXTINF:-1 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/TV-HD-Logo-1.jpg" group-title="AynaOTT",& TV HD
 https://tvs1.aynaott.com/AndTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/colorshd.jpg" group-title="AynaOTT",Colors HD
 https://tvs1.aynaott.com/ColorsHD/tracks-v1a1/mono.m3u8
@@ -326,7 +326,7 @@ https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8
 https://tvs2.aynaott.com/cartoonnetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/discoverykids.jpg" group-title="AynaOTT",Discovery Kids
 https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_%282009%29.svg" group-title="AynaOTT",PBS Kids
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/243-2430194_pbs-kids-logo-pbs-kids.png" group-title="AynaOTT",PBS Kids
 https://tvs2.aynaott.com/pbskids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/assets/img/channels/hindi/tcl-hd.jpg" group-title="AynaOTT",TLC HD
 https://tvs1.aynaott.com/tlc_hd/tracks-v1a1/mono.m3u8
@@ -344,11 +344,9 @@ https://tvs2.aynaott.com/historyen/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/id_hd_source/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="AynaOTT",BBC Earth
 https://tvs1.aynaott.com/BbcEarth/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="AynaOTT",TRT World
-https://tvs1.aynaott.com/trtworld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="AynaOTT",BBC Earth HD
 https://tvs1.aynaott.com/EarthHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://aynaott.com/" group-title="AynaOTT",Sony Pix
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonypix.jpg" group-title="AynaOTT",Sony Pix
 https://tvs1.aynaott.com/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/assets/img/channels/hindi/ZeeCafeHD.jpg" group-title="AynaOTT",Zee Cafe HD
 https://tvs1.aynaott.com/ZeeCafeHD/tracks-v1a1/mono.m3u8
@@ -388,7 +386,9 @@ https://tvs1.aynaott.com/bbcnews/tracks-v1a1/mono.m3u8
 https://tvs1.aynaott.com/cnn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/dw.jpg" group-title="AynaOTT",DW News
 https://tvs1.aynaott.com/dwnews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Sky-News-Logo.png" group-title="AynaOTT",Sky News
+#EXTINF:-1 tvg-logo="https://www.trtworld.com/images/share-1000x500.png" group-title="AynaOTT",TRT World
+https://tvs1.aynaott.com/trtworld/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="hhttps://seeklogo.com/images/S/Sky_news-logo-1E717A73A5-seeklogo.com.png" group-title="AynaOTT",Sky News
 https://tvs2.aynaott.com/skynews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.16.100.244/assets/img/channels/rlgn/makkah-live.jpg" group-title="AynaOTT",Sunnah TV
 https://tvs1.aynaott.com/sunnahtv/tracks-v1a1/mono.m3u8
