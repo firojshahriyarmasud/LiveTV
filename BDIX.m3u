@@ -160,7 +160,7 @@ http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://bciptv.net/assets/images/natgeowildhd.jpg" group-title="Documentary", Nat Geo Wild
 http://15.1.5.14:8082/natgeo-wild/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://bciptv.net/assets/images/discoveryscience.jpg" group-title="Documentary", Discovery Science
-http://15.1.5.10:8082/Discovery-Science/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://bciptv.net/assets/images/bbcearthhd.jpg" group-title="Documentary", BBC Earth HD
 http://15.1.5.14:8082/BBC-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP 
@@ -175,7 +175,7 @@ http://15.1.5.10:8082/ten1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten2.png"  group-title="Sports",Sony Ten 2 HD
 http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/ten3hd.jpg"  group-title="Sports",Sony Ten 3 HD
-http://15.1.5.10:8082/ten3/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/sonysix.png"  group-title="Sports",Sony Six HD 
 http://15.1.5.14:8082/sony-six-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 HD 
@@ -211,7 +211,7 @@ http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
 																****International****
 
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/cgtn.jpg" group-title="International",CGTN
-http://15.1.5.10:8082/Cgtn-News/tracks-v1a1/mono.m3u8	
+http://15.1.5.14:8082/Cgtn-News/tracks-v1a1/mono.m3u8	
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/aljazeera.jpg" group-title="International",Aljaazera
 http://15.1.5.14:8082/Aljazeera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/dw.jpg" group-title="International",DW
