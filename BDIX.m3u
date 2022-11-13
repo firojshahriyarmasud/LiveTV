@@ -66,11 +66,13 @@ http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/sonyaath.jpg" group-title="Indian-Bangla",Sony Aath 
 http://15.1.5.14:8082/Sonyaath/index.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla HD
+http://172.16.50.2:8082/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Indian-Bangla",Jalsha Movies HD
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian-Bangla",Sun Bangla
 http://15.1.5.14:8082/sunbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/3/3e/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Indian-Bangla",Colors Bangla Cinema
 http://15.1.5.14:8082/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/zeebanglacinema.jpg" group-title="Indian-Bangla",Zee Bangla Cinema
 http://15.1.5.14:8082/zee-bangla-cinema/tracks-v1a1/mono.m3u8
@@ -105,6 +107,8 @@ http://15.1.5.14:8082/zeeaction/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/SONY-SUB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/Dhinchaak.jpg" group-title="Hindi",Dhinchaak-2
 http://15.1.5.14:8082/Dhinchaak/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/mtv.jpg" group-title="Hindi",MTV
+http://172.16.50.2:8082/Mtv/tracks-v1a1/mono.m3u8
 
 															****Music****
 
@@ -118,9 +122,11 @@ http://15.1.5.14:8082/ATN-MUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png" group-title="Music",Maastii
 http://15.1.5.14:8082/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/9xm.jpg" group-title="Music",9XM
-http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/bindass.jpg" group-title="Music",Bindaas
 http://15.1.5.14:8082/bindass/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/zoommusic.jpg" group-title="Music",Zoom
+http://172.16.50.2:8082/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/b4umusic.jpg" group-title="Music",B4U Music
 http://15.1.5.14:8082/b4u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/9xjalwa.jpg" group-title="Music",9X Jalwa
@@ -165,32 +171,38 @@ http://172.16.50.2:8082/TLC_World/tracks-v1a1/mono.m3u8
 															****Sports****
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten1.png"  group-title="Sports",Sony Ten 1 HD 
-http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/ten2.png"  group-title="Sports",Sony Ten 2 
-http://15.1.5.14:8082/sony-ten2/tracks-v1a1/mono.m3u8
+http://172.16.50.2:8082/Ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/sonysix.png"  group-title="Sports",Sony Six HD 
 http://15.1.5.14:8082/sony-six-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://ihub.live/uploads/tv_image/sm/star-sports-1.jpg"  group-title="Sports",Star Sports 1 HD 
 http://15.1.5.14:8082/STAR-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starselect1.jpg"  group-title="Sports",Star Sports Select 1 HD
-http://172.16.50.2:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starsports2.jpg" group-title="Sports", Star Sports 2 HD 
-http://15.1.5.14:8082/STAR-SPORTS-2/index.m3u8
+http://172.16.50.2:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/starselect2.jpg"  group-title="Sports",Star Sports Select 2 HD 
 http://15.1.5.14:8082/select2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png"  group-title="Sports",PTV Sports
 http://15.1.5.14:8082/PTV-SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/tensports.jpg"  group-title="Sports",Ten Sports
+http://172.16.50.2:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/adsports1.jpg" group-title="Sports",Ad Sports 1
 http://15.1.5.14:8082/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/adsports2.jpg" group-title="Sports",Ad Sports 2
 http://15.1.5.14:8082/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/bein1.jpg" group-title="Sports",Bein Sports 1 HD
+http://172.16.50.2:8082/Bein-Sports/tracks-v1a1/mono.m3u8
 
 															****Kids****
 
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/duronto.png" group-title="Kids",Duronto TV 
 http://15.1.5.14:8082/duronto-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/nick.jpg" group-title="Kids",Nick Jr.
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/339904/screenshots/2126554/nickjr-logo.png" group-title="Kids",Nick Jr.
 http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/nick.jpg" group-title="Kids",Nick
+http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/discoverykids.jpg" group-title="Kids",Discovery Kids
 http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
 
@@ -219,8 +231,6 @@ http://103.118.76.146:1935/evolution/ATN-BANGLA.stream/chunklist_w1786990682.m3u
 http://103.118.76.146:1935/evolution/MAASRANGA.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="EKATTOR TV" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="SUNPLEX",EKATTOR TV
 http://103.118.76.146:1935/plex/ekattortv.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="SUNPLEX",NAGORIK TV
-http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
 #EXTINF:-1 tvg-name="CHANNEL I" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="SUNPLEX",CHANNEL I
 http://103.118.76.146:1935/evolution/CHANNEL-I.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="DEPTO BANGLA" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="SUNPLEX",DEPTO BANGLA
@@ -261,8 +271,6 @@ http://172.16.29.250/hls/masranga.m3u8
 http://172.16.29.250/hls/indepen.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="InternetTV",Shomoy TV 
 http://172.16.29.250/hls/somoy.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="InternetTV", T Sports HD
-http://172.16.29.250/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="InternetTV", GTV HD
 http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kA2ZJQB.png" group-title="InternetTV", Nexus TV
