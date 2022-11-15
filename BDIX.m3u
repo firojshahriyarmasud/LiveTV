@@ -67,7 +67,7 @@ http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/sonyaath.jpg" group-title="Indian-Bangla",Sony Aath 
 http://15.1.5.14:8082/Sonyaath/index.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla HD
-http://172.16.50.3:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=test
+http://iptv.mcnbd.com:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Indian-Bangla",Jalsha Movies HD
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian-Bangla",Sun Bangla
@@ -137,6 +137,8 @@ http://15.1.5.14:8082/sony-pix-hd/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/star-worldhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/starmovieshd.jpg" group-title="English",Star Movies HD
 http://15.1.5.14:8082/star-movies-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/HBO-logo.png" group-title="English",HBO
+http://172.16.128.2:8081/live/sky1011/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/mnplushd.jpg" group-title="English",MN+
 http://15.1.5.14:8082/mn-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/moviesnowhd.jpg" group-title="English",Movies Now HD
@@ -151,7 +153,7 @@ http://15.1.5.14:8082/Lotus-Macau/tracks-v1a1/mono.m3u8
 														****Documentary****
 
 #EXTINF:1 tvg-logo="http://amrbd.com/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
-http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+http://172.16.29.250/hls/discovery.m3u8
 #EXTINF:1 tvg-logo="http://dugdugilive.com/img/channels/natgeo.png" group-title="Documentary", National Geographic 
 http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://bciptv.net/assets/images/natgeowildhd.jpg" group-title="Documentary", Nat Geo Wild
@@ -410,4 +412,4 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tempskyview.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 
-******************************************************************************END***********************************************************************
+******************************************************************************END********************************************************************
