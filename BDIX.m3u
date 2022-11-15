@@ -66,8 +66,6 @@ http://15.1.5.14:8082/jalsha/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/sonyaath.jpg" group-title="Indian-Bangla",Sony Aath 
 http://15.1.5.14:8082/Sonyaath/index.m3u8
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla HD
-http://iptv.mcnbd.com:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Indian-Bangla",Jalsha Movies HD
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian-Bangla",Sun Bangla
@@ -87,8 +85,6 @@ http://15.1.5.14:8082/SonyTVHD/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/sonymax2.png" group-title="Hindi",Sony Max 2
 http://15.1.5.14:8082/sony-max2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/andpictureshd.jpg" group-title="Hindi",& Pictures HD
-http://172.16.50.3:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/stargold.jpg" group-title="Hindi",Star Gold HD
 http://15.1.5.14:8082/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://dugdugilive.com/img/channels/zeetv.png" group-title="Hindi",Zee TV HD
@@ -107,6 +103,10 @@ http://15.1.5.14:8082/zeeaction/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/SONY-SUB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/Dhinchaak.jpg" group-title="Hindi",Dhinchaak-2
 http://15.1.5.14:8082/Dhinchaak/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/DD_National_new_logo.jpg/640px-DD_National_new_logo.jpg" group-title="Hindi",DD National
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/04/Retro.jpg" group-title="Hindi",DD Retro
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
 
 
 															****Music****
@@ -128,6 +128,10 @@ http://15.1.5.14:8082/bindass/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/b4u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/9xjalwa.jpg" group-title="Music",9X Jalwa
 http://15.1.5.14:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="Music",9X Tahsan
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg" group-title="Music",Music India
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
 																		****English****
 
@@ -152,8 +156,7 @@ http://15.1.5.14:8082/Lotus-Macau/tracks-v1a1/mono.m3u8
 
 														****Documentary****
 
-#EXTINF:1 tvg-logo="http://amrbd.com/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
-http://172.16.29.250/hls/discovery.m3u8
+
 #EXTINF:1 tvg-logo="http://dugdugilive.com/img/channels/natgeo.png" group-title="Documentary", National Geographic 
 http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://bciptv.net/assets/images/natgeowildhd.jpg" group-title="Documentary", Nat Geo Wild
@@ -166,6 +169,8 @@ http://15.1.5.14:8082/BBC-Earth/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/tlchd.jpg" group-title="Documentary",TLC HD
 http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://spng.pngfind.com/pngs/s/495-4959368_discovery-bangla-logo-graphic-design-hd-png-download.png" group-title="Documentary", Discovery Bangla HD
+http://172.16.29.250/hls/discovery.m3u8
 
 															****Sports****
 
@@ -200,7 +205,7 @@ http://15.1.5.14:8082/duronto-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/339904/screenshots/2126554/nickjr-logo.png" group-title="Kids",Nick Jr.
 http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/discoverykids.jpg" group-title="Kids",Discovery Kids
-http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
+http://172.16.29.250/hls/dis-kid.m3u8
 
 																****International****
 
@@ -211,7 +216,7 @@ http://15.1.5.14:8082/Aljazeera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/dw.jpg" group-title="International",DW
 http://15.1.5.14:8082/Dw/tracks-v1a1/mono.m3u8	
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/bbcnews.jpg" group-title="International",BBC News
-http://172.16.50.3:8082/BBC_World/tracks-v1a1/mono.m3u8
+http://ip2121.com:8081/live/bbc/playlist.m3u8
 
 **********************************************************************************SunPlex************************************************************
 
