@@ -170,7 +170,7 @@ http://15.1.5.14:8082/travel-xp/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/tlchd.jpg" group-title="Documentary",TLC HD
 http://15.1.5.14:8082/tlc-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://spng.pngfind.com/pngs/s/495-4959368_discovery-bangla-logo-graphic-design-hd-png-download.png" group-title="Documentary", Discovery Bangla HD
-http://172.16.29.250/hls/discovery.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
 
 															****Sports****
 
@@ -206,6 +206,8 @@ http://15.1.5.14:8082/duronto-tv/tracks-v1a1/mono.m3u8
 http://15.1.5.14:8082/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/discoverykids.jpg" group-title="Kids",Discovery Kids
 http://172.16.29.250/hls/dis-kid.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="Kids",Rangeen TV
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
 																****International****
 
