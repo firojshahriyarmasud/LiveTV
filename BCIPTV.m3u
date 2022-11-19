@@ -1,154 +1,155 @@
 #EXTINF:-1 tvg-id="" tvg-name="Ekattor-tv" tvg-logo="" group-title="AmrBD Server",Ekattor-tv
-http://15.1.5.10:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DBC-NEWS" tvg-logo="" group-title="AmrBD Server",DBC-NEWS
-http://15.1.5.10:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MyTV" tvg-logo="" group-title="AmrBD Server",MyTV
-http://15.1.5.10:8082/MyTV/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News24bd" tvg-logo="" group-title="AmrBD Server",News24bd
-http://15.1.5.10:8082/News24bd/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/News24bd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nagorik-TV" tvg-logo="" group-title="AmrBD Server",Nagorik-TV
-http://15.1.5.10:8082/Nagorik-TV/index.m3u8
+http://15.1.1.10:8282/Nagorik-TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="AmrBD Server",Somoy TV
-http://15.1.5.10:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Somoy-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="AmrBD Server",NTV
-http://15.1.5.10:8082/Ntv/index.m3u8
+http://15.1.1.10:8282/Ntv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="AmrBD Server",RTV
-http://15.1.5.10:8082/RTV/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atn-News" tvg-logo="" group-title="AmrBD Server",Atn-News
-http://15.1.5.10:8082/Atn-News/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Atn-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN-Bangla" tvg-logo="" group-title="AmrBD Server",ATN-Bangla
-http://15.1.5.10:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BanglaVision" tvg-logo="" group-title="AmrBD Server",BanglaVision
-http://15.1.5.10:8082/BanglaVision/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SATV" tvg-logo="" group-title="AmrBD Server",SATV
-http://15.1.5.10:8082/SATV/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel24" tvg-logo="" group-title="AmrBD Server",Channel24
-http://15.1.5.10:8082/Channel24/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekushey-TV" tvg-logo="" group-title="AmrBD Server",Ekushey-TV
-http://15.1.5.10:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Ekushey-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="" group-title="AmrBD Server",Gazi TV
-http://15.1.5.10:8082/GAZI/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/GAZI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deepto-TV" tvg-logo="" group-title="AmrBD Server",Deepto-TV
-http://15.1.5.10:8082/Deepto-TV/index.m3u8
+http://15.1.1.10:8282/Deepto-TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boishakhi" tvg-logo="" group-title="AmrBD Server",Boishakhi
-http://15.1.5.10:8082/Boishakhi/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MohonaTV" tvg-logo="" group-title="AmrBD Server",MohonaTV
-http://15.1.5.10:8082/MohonaTV/index.m3u8
+http://15.1.1.10:8282/MohonaTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anandotv" tvg-logo="" group-title="AmrBD Server",Anandotv
-http://15.1.5.10:8082/anandotv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/anandotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel-i" tvg-logo="" group-title="AmrBD Server",Channel-i
-http://15.1.5.10:8082/Channel-i/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GaanBangla" tvg-logo="" group-title="AmrBD Server",GaanBangla
-http://15.1.5.10:8082/GaanBangla/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BijoyTv" tvg-logo="" group-title="AmrBD Server",BijoyTv
-http://15.1.5.10:8082/BijoyTv/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/BijoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal_Planet HD" tvg-logo="" group-title="AmrBD Server",Animal_Planet HD
-http://15.1.5.10:8082/Animal_Planet/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="AmrBD Server",Discovery HD
-http://15.1.5.10:8082/Discovery-Tv/index.m3u8
+http://15.1.1.10:8282/Discovery-Tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat-Geo Bangla HD" tvg-logo="" group-title="AmrBD Server",Nat-Geo Bangla HD
-http://15.1.5.10:8082/Nat-Geo/index.m3u8
+http://15.1.1.10:8282/Nat-Geo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bbc-Earth HD" tvg-logo="" group-title="AmrBD Server",Bbc-Earth HD
-http://15.1.5.10:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Bbc-Earth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC_World HD" tvg-logo="" group-title="AmrBD Server",TLC_World HD
-http://15.1.5.10:8082/TLC_World/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/TLC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jalshamovies HD" tvg-logo="" group-title="AmrBD Server",Jalshamovies HD
-http://15.1.5.10:8082/Jalshamovies/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="colorsbangla HD" tvg-logo="" group-title="AmrBD Server",colorsbangla HD
-http://15.1.5.10:8082/colorsbangla/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZeeBanglaHD" tvg-logo="" group-title="AmrBD Server",ZeeBanglaHD
-http://15.1.5.10:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u
+http://15.1.1.10:8282/ZeeBanglaHD/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Star-Jalsha HD" tvg-logo="" group-title="AmrBD Server",Star-Jalsha HD
-http://15.1.5.10:8082/Star-Jalsha/index.m3u8
+http://15.1.1.10:8282/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZeeBanglacinema" tvg-logo="" group-title="AmrBD Server",ZeeBanglacinema
-http://15.1.5.10:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sonyaath" tvg-logo="" group-title="AmrBD Server",Sonyaath
-http://15.1.5.10:8082/Sonyaath/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND PriveHD" tvg-logo="" group-title="AmrBD Server",AND PriveHD
-http://15.1.5.10:8082/ZeePriveHD/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/ZeePriveHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZeeStudiohd" tvg-logo="" group-title="AmrBD Server",ZeeStudiohd
-http://15.1.5.10:8082/ZeeStudiohd/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/ZeeStudiohd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" group-title="AmrBD Server",Nick Jr.
-http://15.1.5.10:8082/nike/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/nike/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cgtn-News" tvg-logo="" group-title="AmrBD Server",Cgtn-News
-http://15.1.5.10:8082/Cgtn-News/index.m3u8
+http://15.1.1.10:8282/Cgtn-News/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC_World" tvg-logo="" group-title="AmrBD Server",BBC_World
-http://15.1.5.10:8082/BBC_World/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/BBC_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="AmrBD Server",DW
-http://15.1.5.10:8082/Dw/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Dw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="" group-title="AmrBD Server",Aljazeera
-http://15.1.5.10:8082/Aljazeera/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Aljazeera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV Beats HD" tvg-logo="" group-title="AmrBD Server",MTV Beats HD
-http://15.1.5.10:8082/Mtv-Beats/index.m3u8
+http://15.1.1.10:8282/Mtv-Beats/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="" group-title="AmrBD Server",9XM
-http://15.1.5.10:8082/9XM/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Masti-Music" tvg-logo="" group-title="AmrBD Server",Masti-Music
-http://15.1.5.10:8082/Masti-Music/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Masti-Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="AmrBD Server",Sangeet Bangla
-http://15.1.5.10:8082/SangeetBangla/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/SangeetBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X-Jalwa" tvg-logo="" group-title="AmrBD Server",9X-Jalwa
-http://15.1.5.10:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/9X-Jalwa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="AmrBD Server",MTV
-http://15.1.5.10:8082/MTV/index.m3u8
+http://15.1.1.10:8282/MTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="" group-title="AmrBD Server",Music India
-http://15.1.5.10:8082/Zoom/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SonyPix HD" tvg-logo="" group-title="AmrBD Server",SonyPix HD
-http://15.1.5.10:8082/SonyPix/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Movies_Now_2" tvg-logo="" group-title="AmrBD Server",Movies_Now_2
-http://15.1.5.10:8082/Movies_Now_2/index.m3u8
+http://15.1.1.10:8282/Movies_Now_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="And-Flix HD" tvg-logo="" group-title="AmrBD Server",And-Flix HD
-http://15.1.5.10:8082/And-Flix/index.m3u8
+http://15.1.1.10:8282/And-Flix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="" group-title="AmrBD Server",T Sports HD
-http://15.1.5.10:8082/kn10a/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/kn10a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten1HD" tvg-logo="" group-title="AmrBD Server",Ten1HD
-http://15.1.5.10:8082/Ten1HD/index.m3u8
+http://15.1.1.10:8282/Ten1HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten2HD" tvg-logo="" group-title="AmrBD Server",Ten2HD
-http://15.1.5.10:8082/Ten2HD/index.m3u8
+http://15.1.1.10:8282/Ten2HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten3HD" tvg-logo="" group-title="AmrBD Server",Ten3HD
-http://15.1.5.10:8082/Ten3HD/index.m3u8
+http://15.1.1.10:8282/Ten3HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SonySix HD" tvg-logo="" group-title="AmrBD Server",SonySix HD
-http://15.1.5.10:8082/SonySix/index.m3u8
+http://15.1.1.10:8282/SonySix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="AmrBD Server",Star Sports 1 HD
-http://15.1.5.10:8082/kn1a/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/kn1a/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="AmrBD Server",Star Sports 2 HD
-http://15.1.5.10:8082/kn2a/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/kn2a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 1" tvg-logo="" group-title="AmrBD Server",Star Sports Select HD 1
-http://15.1.5.10:8082/kn3a/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/kn3a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select HD 2" tvg-logo="" group-title="AmrBD Server",Star Sports Select HD 2
-http://15.1.5.10:8082/kn5a/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/kn5a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adsports1" tvg-logo="" group-title="AmrBD Server",Adsports1
-http://15.1.5.10:8082/Adsports1/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adsports2" tvg-logo="" group-title="AmrBD Server",Adsports2
-http://15.1.5.10:8082/Adsports2/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adsports3" tvg-logo="" group-title="AmrBD Server",Adsports3
-http://15.1.5.10:8082/Adsports3/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Adsports3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AndPicturesHD" tvg-logo="" group-title="AmrBD Server",AndPicturesHD
-http://15.1.5.10:8082/AndPicturesHD/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/AndPicturesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SonyTVHD" tvg-logo="" group-title="AmrBD Server",SonyTVHD
-http://15.1.5.10:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony-Max HD" tvg-logo="" group-title="AmrBD Server",Sony-Max HD
-http://15.1.5.10:8082/Sony-Max/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AndTVHD" tvg-logo="" group-title="AmrBD Server",AndTVHD
-http://15.1.5.10:8082/AndTVHD/index.m3u8
+http://15.1.1.10:8282/AndTVHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="" group-title="AmrBD Server",COLORS HD
-http://15.1.5.10:8082/colorsindia/index.m3u8
+http://15.1.1.10:8282/colorsindia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star_Plus HD" tvg-logo="" group-title="AmrBD Server",Star_Plus HD
-http://15.1.5.10:8082/Star_Plus/index.m3u8
+http://15.1.1.10:8282/Star_Plus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="StarGold HD" tvg-logo="" group-title="AmrBD Server",StarGold HD
-http://15.1.5.10:8082/StarGold/index.m3u8
+http://15.1.1.10:8282/StarGold/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="AmrBD Server",Zee Action
-http://15.1.5.10:8082/ZeeAction/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/ZeeAction/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZeeCinemaHD" tvg-logo="" group-title="AmrBD Server",ZeeCinemaHD
-http://15.1.5.10:8082/ZeeCinemaHD/index.m3u8
+http://15.1.1.10:8282/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZeeTV" tvg-logo="" group-title="AmrBD Server",ZeeTV
-http://15.1.5.10:8082/ZeeTV/index.m3u8
+http://15.1.1.10:8282/ZeeTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wow-Cinema" tvg-logo="" group-title="AmrBD Server",Wow-Cinema
-http://15.1.5.10:8082/Wow-Cinema/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Wow-Cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee_Classic" tvg-logo="" group-title="AmrBD Server",Zee_Classic
-http://15.1.5.10:8082/Zee_Classic/index.m3u8
+http://15.1.1.10:8282/Zee_Classic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bflix Movies" tvg-logo="" group-title="AmrBD Server",Bflix Movies
-http://15.1.5.10:8082/bflix/index.m3u8
+http://15.1.1.10:8282/bflix/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony_Sab" tvg-logo="" group-title="AmrBD Server",Sony_Sab
-http://15.1.5.10:8082/Sony_Sab/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Sony_Sab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Xplore HD" tvg-logo="" group-title="AmrBD Server",Xplore HD
-http://15.1.5.10:8082/Xplore/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/Xplore/tracks-v1a1/mono.m3u8
