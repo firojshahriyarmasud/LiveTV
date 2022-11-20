@@ -112,6 +112,12 @@ http://15.1.1.10:8282/mn-hd/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/mnx-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/lotus.jpg" group-title="English",Lotus Maccau
 http://15.1.1.10:8282/Lotus-Macau/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="English Movie",AXN HD
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="English",Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/01.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="English",Blue Ant Extreme
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 
 
 
