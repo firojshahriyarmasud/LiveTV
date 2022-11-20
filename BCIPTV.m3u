@@ -166,7 +166,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/tsports.jpg" group-title="Sports",T Sports HD
-http://15.1.1.10:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1
 http://172.16.128.2:8081/live/sky1011/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten2hd.jpg" group-title="Sports",Sony Ten 2
