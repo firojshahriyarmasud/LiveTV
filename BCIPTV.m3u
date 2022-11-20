@@ -193,8 +193,13 @@ http://15.1.1.10:8282/Adsports1/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 
 
-EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="World Cup",Fifa World Cup
+EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="Fifa World Cup",Live-1
 http://15.1.5.10:8082/en3-37/tracks-v1a1/mono.m3u8
+EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="Fifa World Cup",Live-2
+http://103.159.4.38:9191/CH2A-SP2/tracks-v1a1/mono.m3u8
+EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="Fifa World Cup",Live-3
+
+EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="Fifa World Cup",Live-4
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/duronto.jpg" group-title="Kids",Duronto
 http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
