@@ -193,6 +193,9 @@ http://15.1.1.10:8282/Adsports1/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 
 
+EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="World Cup",Fifa World Cup
+http://15.1.5.10:8082/en3-37/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/duronto.jpg" group-title="Kids",Duronto
 http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/nick.jpg" group-title="Kids",Nick Jr.
