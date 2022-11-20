@@ -81,7 +81,7 @@ http://15.1.1.10:8282/Dhinchaak/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonymax2.png" group-title="Hindi",Sony Max 2
 http://15.1.1.10:8282/sony-max2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/colorscineplex.jpg" group-title="Hindi",Colors Cineplex HD
-http://15.1.1.10:8282/Dhinchaak/tracks-v1a1/mono.m3u8
+http://15.1.5.22:8082/colorscineplex/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starplushd.jpg" group-title="Hindi",Star Plus HD
 http://15.1.1.10:8282/star-plus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/zeecinemahd.jpg" group-title="Hindi",Zee Cinema HD
