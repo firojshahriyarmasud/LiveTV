@@ -38,15 +38,16 @@ http://15.1.1.10:8282/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/deeptotv.jpg" group-title="Bangladeshi",Deepto TV
 http://15.1.1.10:8282/depto-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/gaanbangla.jpg" group-title="Bangladeshi",Gaanbangla
-http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
+http://15.1.5.18:8082/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/mohonatv.jpg" group-title="Bangladeshi",Mohona TV
 http://15.1.1.10:8282/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/mytv.jpg" group-title="Bangladeshi",MyTV
 http://15.1.1.10:8282/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/anandotv.jpg" group-title="Bangladeshi",Ananda TV
 http://15.1.1.10:8282/anandotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/duronto.jpg" group-title="Bangladeshi",Duronto
-http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/gazi.jpg" group-title="Bangladeshi",Gazi TV
+http://15.1.5.10:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starjalshahd.jpg" group-title="Indian-Bangla",Star Jalsha HD
@@ -70,7 +71,7 @@ http://15.1.1.10:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonymaxhd.jpg" group-title="Hindi",Sony Max HD
 http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonytv.jpg" group-title="Hindi",Sony TV HD
-http://15.1.1.10:8282/SonyTVHD/index.m3u8
+http://172.16.128.2:8081/live/sky2006/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/stargold.jpg" group-title="Hindi",Star Gold HD
 http://15.1.1.10:8282/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonysabhd.jpg" group-title="Hindi",Sony Sab HD
@@ -144,7 +145,7 @@ http://15.1.1.10:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1
 http://15.1.1.10:8282/ten1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten2hd.jpg" group-title="Sports",Sony Ten 2
-http://15.1.1.10:8282/sony-ten2/tracks-v1a1/mono.m3u8
+http://172.16.128.2:8081/live/sky1007/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten3hd.jpg" group-title="Sports", Sony Ten 3
 http://15.1.1.10:8282/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonysixhd.jpg" group-title="Sports",Sony Six
@@ -156,13 +157,22 @@ http://15.1.1.10:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starsports2.jpg" group-title="Sports",Star Sports 2
 http://15.1.1.10:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starselect2.jpg" group-title="Sports",Star Sports Select 2
-http://15.1.1.10:8282/select2/tracks-v1a1/mono.m3u8
+http://172.16.128.2:8081/live/sky1009/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ptvsports.jpg" group-title="Sports",PTV Sports
 http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="Sports",Ad Sports 1
 http://15.1.1.10:8282/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="Sports",Ad Sports 2
 http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/duronto.jpg" group-title="Kids",Duronto
+http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/nick.jpg" group-title="Kids",Nick Jr.
+http://15.1.5.10:8082/nick-jr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="Kids",Rangeen TV
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-name="FailArmy" tvg-logo="https://i.imgur.com/JmQ6QjL.png" group-title="International",FailArmy
