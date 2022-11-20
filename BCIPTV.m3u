@@ -66,6 +66,8 @@ http://15.1.1.10:8282/jalsha-movies/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/enterr10.jpg" group-title="Indian-Bangla",Enterr 10
 http://15.1.1.10:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla HD
+http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonymaxhd.jpg" group-title="Hindi",Sony Max HD
@@ -99,7 +101,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starmovieshd.jpg" group-title="English",Star Movies HD
 http://15.1.1.10:8282/star-movies-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonypix.jpg" group-title="English",Sony Pix HD
-http://15.1.1.10:8282/sony-pix-hd/index.m3u8
+http://12.1.1.1:8082/SonyPix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starworld.jpg" group-title="English",Star World HD
 http://15.1.1.10:8282/star-worldhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/andflixhd.jpg" group-title="English",& Flix HD
@@ -132,7 +134,10 @@ http://15.1.1.10:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/tlchd.jpg" group-title="Documentary",TLC HD
 http://15.1.1.10:8282/tlc-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="https://spng.pngfind.com/pngs/s/495-4959368_discovery-bangla-logo-graphic-design-hd-png-download.png" group-title="Documentary", Discovery Bangla HD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
+http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/animalplanetnew.jpg" group-title="Documentary",Animal Planet
+http://12.1.1.1:8082/Animal_Planet/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/banglatalkies.jpg" group-title="Music",Bangla Talkies
@@ -149,6 +154,10 @@ http://15.1.1.10:8282/Masti-Music/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/9XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/9xjalwa.jpg" group-title="Music",9X Jalwa
 http://15.1.1.10:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/mtv.jpg" group-title="Music",MTV
+http://12.1.1.1:8082/Mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/zoommusic.jpg" group-title="Music",Zoom
+http://12.1.1.1:8082/Zoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="Music",9X Tahsan
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/9XTashan.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg" group-title="Music",Music India
@@ -176,6 +185,8 @@ http://15.1.1.10:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 http://172.16.128.2:8081/live/sky1009/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ptvsports.jpg" group-title="Sports",PTV Sports
 http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tensports.jpg" group-title="Sports",Ten Sports
+http://12.1.1.1:8082/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports1.jpg" group-title="Sports",Ad Sports 1
 http://15.1.1.10:8282/Adsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/adsports2.jpg" group-title="Sports",Ad Sports 2
@@ -188,6 +199,8 @@ http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="Kids",Rangeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
+http://12.1.1.1:8082/Cartoon-Network/tracks-v1a1/mono.m3u8
 
 
 
