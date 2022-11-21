@@ -46,7 +46,7 @@ http://15.1.1.10:8282/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/anandotv.jpg" group-title="Bangladeshi",Ananda TV
 http://15.1.1.10:8282/anandotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/gazi.jpg" group-title="Bangladeshi",Gazi TV
-http://15.1.5.10:8082/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
 
 
 
@@ -168,7 +168,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/tsports.jpg" group-title="Sports",T Sports HD
 http://172.16.128.2:8081/live/sky1010/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1
-http://172.16.128.2:8081/live/sky1011/chunks.m3u8
+http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten2hd.jpg" group-title="Sports",Sony Ten 2
 http://172.16.128.2:8081/live/sky1007/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten3hd.jpg" group-title="Sports", Sony Ten 3
@@ -182,7 +182,7 @@ http://15.1.1.10:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starsports2.jpg" group-title="Sports",Star Sports 2
 http://15.1.1.10:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starselect2.jpg" group-title="Sports",Star Sports Select 2
-http://172.16.128.2:8081/live/sky1009/chunks.m3u8
+http://15.1.5.10:8082/select2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ptvsports.jpg" group-title="Sports",PTV Sports
 http://15.1.1.10:8282/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tensports.jpg" group-title="Sports",Ten Sports
@@ -193,13 +193,19 @@ http://15.1.1.10:8282/Adsports1/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="Fifa World Cup",Live-1
-http://15.1.5.10:8082/en3-37/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Fifa World Cup",Live-2
-http://103.159.4.38:9191/CH2A-SP2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="Fifa World Cup",Live-3
 
-#EXTINF:-1 tvg-logo=" " group-title="Fifa World Cup",Live-4
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-1
+http://15.1.5.10:8082/en3-37/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-2
+http://103.159.4.38:9191/CH2A-SP2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-3
+http://172.16.128.2:8081/live/sky1011/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-4
+http://124.6.236.252/hls/gazitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-5
+http://124.6.236.252/hls/live3/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/duronto.jpg" group-title="Kids",Duronto
 http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
