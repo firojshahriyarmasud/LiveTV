@@ -134,10 +134,8 @@ http://15.1.1.10:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/tlchd.jpg" group-title="Documentary",TLC HD
 http://15.1.1.10:8282/tlc-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
-http://103.159.4.38:9191/CH44-ENG2/tracks-v1a1/mono.m3u8
-#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/animalplanetnew.jpg" group-title="Documentary",Animal Planet
-http://12.1.1.1:8082/Animal_Planet/tracks-v1a1/mono.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/banglatalkies.jpg" group-title="Music",Bangla Talkies
@@ -189,17 +187,17 @@ http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-1
-http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
+http://172.16.128.2:8081/live/sky1010/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-2
-http://124.6.236.252/hls/gazitv/index.m3u8
+http://172.16.128.2:8081/live/sky2002/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-3
 http://172.16.128.2:8081/live/sky1011/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-4
-http://172.16.128.2:8081/live/sky1010/chunks.m3u8
+http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-5
-http://124.6.236.252/hls/live3/index.m3u8
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-6
-http://103.159.4.38:9191/CH2A-SP2/tracks-v1a1/mono.m3u8
+http://15.1.5.14:8082/en3-37/tracks-v1a1/mono.m3u8?
 
 
 
