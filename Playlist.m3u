@@ -171,7 +171,7 @@ http://172.16.29.250/hls/cn.m3u8
 																		**Indian Bangla**
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla",Star Jalsha HD
-http://103.118.76.146:1935/plex/Star-jalsha.stream/playlist.m3u8
+http://103.159.4.38:9191/CH24-INBD3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S0Q1FKt/images.jpg" group-title="Indian Bangla",Jalsha Movies HD
