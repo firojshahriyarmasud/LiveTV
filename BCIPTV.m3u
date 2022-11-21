@@ -66,8 +66,8 @@ http://15.1.1.10:8282/jalsha-movies/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/enterr10.jpg" group-title="Indian-Bangla",Enterr 10
 http://15.1.1.10:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/colorsbangla.jpg" group-title="Indian-Bangla",Colors Bangla HD
-http://12.1.1.1:8082/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian-Bangla",Colors Bangla HD
+http://103.159.4.38:9191/CH25-INBD4/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonymaxhd.jpg" group-title="Hindi",Sony Max HD
@@ -133,10 +133,10 @@ http://15.1.1.10:8282/travel-xp/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/tlchd.jpg" group-title="Documentary",TLC HD
 http://15.1.1.10:8282/tlc-hd/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="https://spng.pngfind.com/pngs/s/495-4959368_discovery-bangla-logo-graphic-design-hd-png-download.png" group-title="Documentary", Discovery Bangla HD
-http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
+http://103.159.4.38:9191/CH44-ENG2/tracks-v1a1/mono.m3u8
 #https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/animalplanetnew.jpg" group-title="Documentary",Animal Planet
+#EXTINF:-1 tvg-logo="http://103.136.200.246/assets/images/animalplanetnew.jpg" group-title="Documentary",Animal Planet
 http://12.1.1.1:8082/Animal_Planet/tracks-v1a1/mono.m3u8
 
 
@@ -214,7 +214,7 @@ http://15.1.5.10:8082/nick-jr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="Kids",Rangeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
-http://12.1.1.1:8082/Cartoon-Network/tracks-v1a1/mono.m3u8
+http://103.78.255.178:8080/nick/tracks-v1a1/mono.m3u8
 
 
 
