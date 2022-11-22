@@ -188,11 +188,11 @@ http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-1
-http://172.16.128.2:8081/live/sky1010/chunks.m3u8
+https://live.jadooiptv.com/allLive/t_sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-2
-http://172.16.128.2:8081/live/sky2002/chunks.m3u8
+https://live.jadooiptv.com/allLive/channel_18/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-3
-http://172.16.128.2:8081/live/sky1011/chunks.m3u8
+https://live.jadooiptv.com/allLive/gazi_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-4
 http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-5
