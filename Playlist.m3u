@@ -1,4 +1,15 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-1
+https://mprod-cdn.toffeelive.com:443/toffee/fifa-free/match-1/master_1000.m3u8
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-2
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-3
+http://167.172.79.191:9999/cloud/stream/e8ecf3c56f9c4652aa83ea4f237e44dc/10/index.m3u8
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-4
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+
+
 																							***** Bangladeshi*****
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Bangladeshi",Jamuna TV
