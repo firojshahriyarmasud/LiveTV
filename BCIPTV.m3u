@@ -133,8 +133,9 @@ http://15.1.1.10:8282/travel-xp/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/tlchd.jpg" group-title="Documentary",TLC HD
 http://15.1.1.10:8282/tlc-hd/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
+#EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla
+http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
+#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
 
 
 
@@ -197,7 +198,9 @@ http://172.16.128.2:8081/live/sky2001/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-5
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-6
-http://15.1.5.14:8082/en3-37/tracks-v1a1/mono.m3u8?
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-7
+https://mprod-cdn.toffeelive.com:443/toffee/fifa-free/match-1/master_1000.m3u8
 
 
 
