@@ -201,7 +201,7 @@ http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 http://124.6.236.252/hls/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-7
 https://mprod-cdn.toffeelive.com:443/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-7
+#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-8
 http://124.6.236.252/hls/live3/index.m3u8
 
 
