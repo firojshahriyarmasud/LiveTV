@@ -47,6 +47,8 @@ http://15.1.1.10:8282/MyTV/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/anandotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/gazi.jpg" group-title="Bangladeshi",Gazi TV
 http://15.1.1.34:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nagorik.com/wp-content/uploads/2022/02/Nagorik-Logo-150px.png" group-title="Bangladeshi",Nagorik TV
+https://live.jadooiptv.com/allLive/nagorik_tv/playlist.m3u8
 
 
 
@@ -202,7 +204,7 @@ https://mprod-cdn.toffeelive.com:443/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-7
 http://15.1.1.34:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-8
-http://172.16.128.2:8081/live/sky2002/chunks.m3u8?
+http://172.16.128.2:8081/live/sky2002/chunks.m3u8
 
 
 
