@@ -54,8 +54,6 @@ https://live.jadooiptv.com/allLive/nagorik_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starjalshahd.jpg" group-title="Indian-Bangla",Star Jalsha HD
 http://15.1.1.10:8282/jalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/starjalshahd.jpg" group-title="Indian-Bangla",Star Jalsha HD [OPT]
-http://103.78.255.178:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/zeebanglahd.jpg" group-title="Indian-Bangla",Zee Bangla HD
 http://15.1.1.10:8282/zee-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonyaath.jpg" group-title="Indian-Bangla",Sony Aath
@@ -167,7 +165,7 @@ http://172.16.128.2:8081/live/sky1010/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1
 http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten2hd.jpg" group-title="Sports",Sony Ten 2
-http://172.16.128.2:8081/live/sky1007/chunks.m3u8
+http://15.1.1.34:8282/sony-ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/ten3hd.jpg" group-title="Sports", Sony Ten 3
 http://15.1.1.10:8282/ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdiptv.net/assets/images/sonysixhd.jpg" group-title="Sports",Sony Six
@@ -196,7 +194,7 @@ https://live.jadooiptv.com/allLive/channel_18/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-3
 https://live.jadooiptv.com/allLive/gazi_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-4
-http://172.16.128.2:8081/live/sky2001/chunks.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-5
 http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-6
