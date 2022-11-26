@@ -75,7 +75,7 @@ http://15.1.1.10:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sonymaxhd.jpg" group-title="Hindi",Sony Max HD
 http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sonytv.jpg" group-title="Hindi",Sony TV HD
-http://172.16.128.2:8081/live/sky2006/chunks.m3u8
+http://15.1.1.34:8282/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/stargold.jpg" group-title="Hindi",Star Gold HD
 http://15.1.1.10:8282/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sonysabhd.jpg" group-title="Hindi",Sony Sab HD
@@ -101,7 +101,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/starmovieshd.jpg" group-title="English",Star Movies HD
 http://15.1.1.10:8282/star-movies-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sonypix.jpg" group-title="English",Sony Pix HD
-http://12.1.1.1:8082/SonyPix/tracks-v1a1/mono.m3u8
+http://15.1.1.34:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/starworld.jpg" group-title="English",Star World HD
 http://15.1.1.10:8282/star-worldhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/andflixhd.jpg" group-title="English",& Flix HD
