@@ -69,7 +69,7 @@ http://15.1.1.10:8282/colore-bangla-cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/enterr10.jpg" group-title="Indian-Bangla",Enterr 10
 http://15.1.1.10:8282/enterr10-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/220px-Colors_Bangla.png" group-title="Indian-Bangla",Colors Bangla HD
-
+https://236s.short.gy/masud/colorsbangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sonymaxhd.jpg" group-title="Hindi",Sony Max HD
@@ -77,7 +77,7 @@ http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sonytv.jpg" group-title="Hindi",Sony TV HD
 http://15.1.1.34:8282/SonyTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/stargold.jpg" group-title="Hindi",Star Gold HD
-http://15.1.1.34:8282/star-gold/tracks-v1a1/mono.m3u8
+http://15.1.1.10:8282/star-gold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sonysabhd.jpg" group-title="Hindi",Sony Sab HD
 http://15.1.1.10:8282/SONY-SUB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/Dhinchaak.jpg" group-title="Hindi",Dhinchaak 2
@@ -135,7 +135,11 @@ http://15.1.1.10:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/tlc-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla
 http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
 #https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png",Animal Planet
+https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-hin
 
 
 
@@ -200,16 +204,15 @@ https://mprod-cdn.toffeelive.com:443/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-6
 http://15.1.1.34:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-7
-http://103.102.27.173/live/tvfeed1002/index.m3u8
-
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/duronto.jpg" group-title="Kids",Duronto
 http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/nick.jpg" group-title="Kids",Nick Jr.
-http://15.1.5.10:8082/nick-jr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/nick.jpg" group-title="Kids",Nick
+https://236s.short.gy/masud/nick.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="Kids",Rangeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Kids",Cartoon Network
