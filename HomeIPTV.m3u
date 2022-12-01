@@ -135,20 +135,19 @@ http://15.1.1.10:8282/Discovery-Science/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/tlc-hd/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla
 http://15.1.5.14:8082/discovery-kid/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery Bangla HD
-https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
-#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png",Animal Planet
-https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-hin
+#EXTINF:1 tvg-logo="http://103.136.200.246/assets/images/discoveryhd.jpg" group-title="Documentary", Discovery English
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/banglatalkies.jpg" group-title="Music",Bangla Talkies
-http://15.1.1.10:8282/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sangeetbangla.jpg" group-title="Music",Sangeet Bangla
 http://15.1.1.10:8282/sangeet-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bciptv.net/assets/images/atnmusic.jpg" group-title="Music",ATN Music
 http://15.1.5.10:8082/ATN-MUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/banglatalkies.jpg" group-title="Music",Bangla Talkies
+http://15.1.1.10:8282/BANGLA-TALKIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/bindass.jpg" group-title="Music",Bindaas
 http://15.1.1.10:8282/bindass/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/musicmasti.jpg" group-title="Music",Mastii
@@ -165,7 +164,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/tsports.jpg" group-title="Sports",T Sports HD
-http://172.16.128.2:8081/live/sky1010/chunks.m3u8
+https://live.jadooiptv.com/allLive/t_sports/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1
 http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/ten2hd.jpg" group-title="Sports",Sony Ten 2
@@ -215,8 +214,6 @@ http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
 https://236s.short.gy/masud/nick.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="Kids",Rangeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Kids",Cartoon Network
-http://103.78.255.178:8080/nick/tracks-v1a1/mono.m3u8
 
 
 
