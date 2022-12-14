@@ -92,6 +92,8 @@ http://15.1.1.10:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 http://15.1.1.10:8282/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/zeetvhd.jpg" group-title="Hindi",Zee TV HD
 http://15.1.1.10:8282/zee-tv-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/pictures.png" group-title="Hindi",And Pictures HD
+https://236s.short.gy/masud/&picturesHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/DD_National_new_logo.jpg/640px-DD_National_new_logo.jpg" group-title="Hindi",DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/04/Retro.jpg" group-title="Hindi",DD Retro
@@ -164,7 +166,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/tsports.jpg" group-title="Sports",T Sports HD
-https://live.jadooiptv.com/allLive/t_sports/playlist.m3u8
+http://103.143.235.50:8080/102/102.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/ten1hd.jpg" group-title="Sports",Sony Ten 1
 http://15.1.5.18:8082/ten1-hd/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/ten2hd.jpg" group-title="Sports",Sony Ten 2
