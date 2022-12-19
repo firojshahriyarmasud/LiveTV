@@ -194,34 +194,6 @@ http://15.1.1.10:8282/Adsports2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-1
-https://live.jadooiptv.com/allLive/t_sports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-2
-https://live.jadooiptv.com/allLive/channel_18/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-3
-https://live.jadooiptv.com/allLive/gazi_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-4
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-5
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-6
-http://15.1.1.34:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-7
-http://15.1.1.34:8282/en3-37/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-8
-http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-9
-http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=promasbd.comcom
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-10
-http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-11
-http://103.143.235.50/Gazi-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://nilepost.co.ug/wp-content/uploads/2019/09/fifa-2022-emblem-.jpg" group-title="Fifa World Cup",Live-12
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/duronto.jpg" group-title="Kids",Duronto
 http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
@@ -229,6 +201,8 @@ http://15.1.1.10:8282/duronto-tv/tracks-v1a1/mono.m3u8
 https://236s.short.gy/masud/nick.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="Kids",Rangeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Kids",Sony YaY
+https://236s.short.gy/masud/YaY.m3u8
 
 
 
@@ -444,4 +418,3 @@ https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUOzFWXGMolJoElvCDwf14buD-IYioLY2VEQ&usqp=CAU" group-title="JagoBD", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8											
-
