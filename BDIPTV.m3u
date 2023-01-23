@@ -282,6 +282,8 @@ http://15.1.5.18:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 http://12.1.1.1:8082/colorsindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/zeetvhd.jpg" group-title="Hindi",Zee TV HD
 http://12.1.1.1:8082/Zee-Hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/andpictureshd.jpg" group-title="Hindi",& Pictures HD
+http://172.16.50.2:8082/And-Pictures/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/sonypix.jpg" group-title="English",Sony Pix HD
@@ -351,6 +353,8 @@ http://12.1.1.1:8082/Adsports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/cartoonnetwork.jpg" group-title="Kids",Cartoon Network
 http://12.1.1.1:8082/Cartoon-Network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://172.16.50.2/assets/images/nick.jpg" group-title="Kids",Nick
+http://172.16.50.2:8082/nike/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg" group-title="Kids",Rangeen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
 
