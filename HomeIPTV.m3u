@@ -202,8 +202,7 @@ http://172.16.29.250/hls/qurqntv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/jamunatv.jpg" group-title="Bangladeshi",Jamuna TV
-http://15.1.1.10:8282/jamuna-tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/channel24.jpg" group-title="Bangladeshi",Channel 24
 http://15.1.1.10:8282/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://15.1.1.34/assets/images/news24.jpg" group-title="Bangladeshi",News 24
