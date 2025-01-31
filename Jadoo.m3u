@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdz3OkCbyp_iiKYIitRUubOyJGvii8I9yW7g&s",RTV
+https://live.jadooiptv.com/allLive/rtv/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/ekushey_tv.jpg",Ekushey TV
+https://live.jadooiptv.com/allLive/ekushey_tv/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/desh_tv.jpg",Desh TV
+https://live.jadooiptv.com/allLive/desh_tv/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/channel_i.jpg",Channel I
+https://live.jadooiptv.com/allLive/channel_i/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV
+http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/640px-Star_Jalsha_logo_2023.png",Star Jalsha HD
+http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/zee_bangla.jpg",Zee Bangla
+https://live.jadooiptv.com/allLive/zee_bangla/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://w7.pngwing.com/pngs/119/426/png-transparent-viacom-18-colors-television-show-television-channel-poster-title-miscellaneous-purple-television-thumbnail.png",Colours HD
+https://live.jadooiptv.com/allLive/colors_hd/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/zee_tv.jpg",Zee TV
+https://live.jadooiptv.com/allLive/zee_tv/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/zee_cinema_hd.png",Zee Cinema HD
+https://live.jadooiptv.com/allLive/zee_cinema_hd/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/zee_action.jpg",Zee Action
+https://live.jadooiptv.com/allLive/zee_action/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/zee_bollywood.jpg",Zee Bollywood
+https://live.jadooiptv.com/allLive/zee_bollywood/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/PTV-Sports.jpg",PTV Sports
+https://live.jadooiptv.com/allLive/ptv_sports_hd/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg",T Sports
+https://live.jadooiptv.com/allLive/t_sports/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/cnn.png",CNN
+https://live.jadooiptv.com/allLive/cnn/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/macau_lotus.jpg",Lotus
+https://live.jadooiptv.com/allLive/macau_lotus/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/arirang.png",Arirang
+https://live.jadooiptv.com/allLive/arirang/playlist.m3u8
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/cbeebies_asia.jpg",Cbeebies
+https://live.jadooiptv.com/allLive/cbeebies_asia/playlist.m3u8
