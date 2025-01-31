@@ -16,7 +16,7 @@ http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
 http://172.17.50.112:84/ant1003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/zee_bangla.jpg",Zee Bangla
 https://live.jadooiptv.com/allLive/zee_bangla/playlist.m3u8
-#EXTINF:-1 group-title="Live-TV" tvg-logo="https://w7.pngwing.com/pngs/119/426/png-transparent-viacom-18-colors-television-show-television-channel-poster-title-miscellaneous-purple-television-thumbnail.png",Colours HD
+#EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/colors_hd.jpg",Colours HD
 https://live.jadooiptv.com/allLive/colors_hd/playlist.m3u8
 #EXTINF:-1 group-title="Live-TV" tvg-logo="https://live.jadooiptv.com/images/popular/zee_tv.jpg",Zee TV
 https://live.jadooiptv.com/allLive/zee_tv/playlist.m3u8
